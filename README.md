@@ -72,4 +72,4 @@ Modular pipeline design for structured inference
 
 Multilingual model handling and label bucketing
 
-Metrics visualization: classification reports, PR and ROC curves
+Metrics visualization: classification reports
