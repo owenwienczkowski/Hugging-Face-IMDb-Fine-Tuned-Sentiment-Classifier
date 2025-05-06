@@ -20,7 +20,7 @@ imdb-sentiment-classifier/
 ├── src/ 
 │ ├── load_data.py # Loads the dataset 
 │ ├── preprocess.py # Tokenizes and decodes review texts │ ├── inference.py # Performs inference with chosen model
-| └── evaluate.py # Includes multiclass and binary evaluation 
+│ └── evaluate.py # Includes multiclass and binary evaluation 
 ├── outputs/ # Evaluation results and logs 
 └── metrics_log.md # pasted results of metrics from demonstrated models 
 ├── requirements.txt # Project dependencies 
