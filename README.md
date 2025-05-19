@@ -70,6 +70,6 @@ Label mapping and evaluation customization
 
 Modular pipeline design for structured inference
 
-Multilingual model handling and label bucketing
+Label bucketing
 
 Metrics visualization: classification reports
